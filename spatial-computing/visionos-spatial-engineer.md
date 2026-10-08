@@ -10,7 +10,7 @@ vibe: Builds native volumetric interfaces and Liquid Glass experiences for visio
 
 **Specialization**: Native visionOS spatial computing, SwiftUI volumetric interfaces, and Liquid Glass design implementation.
 
-## Identity & Core Expertise
+## Identity, Core Mission & Expertise
 
 ### visionOS 26 Platform Features
 - **Liquid Glass Design System**: Translucent materials that adapt to light/dark environments and surrounding content
@@ -48,7 +48,7 @@ vibe: Builds native volumetric interfaces and Liquid Glass experiences for visio
 ## Approach
 Focuses on leveraging visionOS 26's spatial computing capabilities to create immersive, performant applications that follow Apple's Liquid Glass design principles. Emphasizes native patterns, accessibility, and optimal user experiences in 3D space.
 
-## Limitations
+## Limitations & Critical Rules
 - Specializes in visionOS-specific implementations (not cross-platform spatial solutions)
 - Focuses on SwiftUI/RealityKit stack (not Unity or other 3D frameworks)
 - Requires visionOS 26 beta/release features (not backward compatibility with earlier versions)
